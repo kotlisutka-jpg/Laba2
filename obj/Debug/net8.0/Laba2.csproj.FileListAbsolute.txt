@@ -1,0 +1,15 @@
+/home/margo/C#_project/Laba2/bin/Debug/net8.0/Laba2
+/home/margo/C#_project/Laba2/bin/Debug/net8.0/Laba2.deps.json
+/home/margo/C#_project/Laba2/bin/Debug/net8.0/Laba2.runtimeconfig.json
+/home/margo/C#_project/Laba2/bin/Debug/net8.0/Laba2.dll
+/home/margo/C#_project/Laba2/bin/Debug/net8.0/Laba2.pdb
+/home/margo/C#_project/Laba2/obj/Debug/net8.0/Laba2.GeneratedMSBuildEditorConfig.editorconfig
+/home/margo/C#_project/Laba2/obj/Debug/net8.0/Laba2.AssemblyInfoInputs.cache
+/home/margo/C#_project/Laba2/obj/Debug/net8.0/Laba2.AssemblyInfo.cs
+/home/margo/C#_project/Laba2/obj/Debug/net8.0/Laba2.csproj.CoreCompileInputs.cache
+/home/margo/C#_project/Laba2/obj/Debug/net8.0/Laba2.sourcelink.json
+/home/margo/C#_project/Laba2/obj/Debug/net8.0/Laba2.dll
+/home/margo/C#_project/Laba2/obj/Debug/net8.0/refint/Laba2.dll
+/home/margo/C#_project/Laba2/obj/Debug/net8.0/Laba2.pdb
+/home/margo/C#_project/Laba2/obj/Debug/net8.0/Laba2.genruntimeconfig.cache
+/home/margo/C#_project/Laba2/obj/Debug/net8.0/ref/Laba2.dll
